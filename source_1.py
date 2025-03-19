@@ -1,3 +1,5 @@
+# First I coded this and it passes 986/987 testcases.Because input in first testcase is very long.Due to high complexity of this code ,time limit exceeded
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         max_lenght = 0
